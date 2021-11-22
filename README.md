@@ -14,6 +14,7 @@ District Summary (original)
 
 District Summary (edited)
 
+
 ![Screen Shot 2021-11-21 at 5 48 26 PM](https://user-images.githubusercontent.com/92831268/142789276-35cdde62-2965-4cde-b2c2-4015dc5bb752.png)
 
 The original district summary is displayed first, and the second image is of the district summary after the 9th graders from Thomas High School's grades are removed. After removing those grades, these are the things that are affected: 
@@ -25,9 +26,12 @@ The original district summary is displayed first, and the second image is of the
 ### School Summary 
 School Summary (original)
 
+
 ![Screen Shot 2021-11-21 at 6 07 02 PM](https://user-images.githubusercontent.com/92831268/142790541-ce67dd4d-476c-45d2-a356-3c81064cdbfd.png)
 
 School Summary (edited)
+
+
 ![Screen Shot 2021-11-21 at 5 57 41 PM](https://user-images.githubusercontent.com/92831268/142789933-a56351bd-d87e-4c2d-a8a0-3298cd8cd82a.png)
 
 The school summary is affected in the second analysis in the following ways: 
@@ -44,38 +48,42 @@ Below are the top 5 performaing schools within the District, with Thomas High Sc
 ![Screen Shot 2021-11-21 at 6 16 32 PM](https://user-images.githubusercontent.com/92831268/142791303-556722d7-b54f-43d6-afae-f0f0c77e9628.png)
 
 ### Math and Reading Scores by Grade 
-
 Math Scores by Grade
+
+
 ![Screen Shot 2021-11-21 at 6 32 06 PM](https://user-images.githubusercontent.com/92831268/142792593-bc20a693-5767-4199-92aa-1f3f5b4c0731.png)
 
 Reading Scores by Grade
+
+
 ![Screen Shot 2021-11-21 at 6 32 32 PM](https://user-images.githubusercontent.com/92831268/142792626-95f0276a-6b94-4576-9c31-e138c42bf249.png)
 
 Since the 9th Grade Scores are filled with NaN, the percentage only accounts for the 10th-12th graders. The Average Math score does decrease ever so slightly, indicating that if there was academic dishonesty, the grades may have been higher for the 9th graders due to the indiscretion. 
 
 ### Scores by School Spending
 Spending Summary
+
+
 ![Screen Shot 2021-11-21 at 6 36 42 PM](https://user-images.githubusercontent.com/92831268/142792955-37356f90-475f-4a9f-a90d-cec16244dda0.png)
 
 Thomas High School is within the $630-$644 Spending Range. Looking at the original analysis and the new analysis, the 9th grade scores do not affect the scores by school spending. If there is any change, it is within the hundreth of % percentage place. 
 
 ### Scores by School Size 
 School Size Summary 
+
+
 ![Screen Shot 2021-11-21 at 6 40 15 PM](https://user-images.githubusercontent.com/92831268/142793200-de81a329-cda9-41ca-8c2a-24ebce175b6a.png)
 
 Similar to the Scores by School Spending, the differences in the scores for the school size are within the hundreths place. 
 
 ### Scores by School Type 
 School Type Summary
+
+
 ![Screen Shot 2021-11-21 at 6 41 21 PM](https://user-images.githubusercontent.com/92831268/142793258-91a10585-519b-48a1-adec-db04d4325eb1.png)
 
 Lastly, Thomas High School is a Charter School, and similiar to both the School Spending and School Size, the difference is ever so slight and within the hundreths place and decreases after the 9th grade scores are replaced. 
 
 ## Summary 
 " Statement summarizing four changes to the school district analysis after reading and math scores have been replaced."
-- The Average Math score decreased by .06. 
-- The Average Reading Score increased by .05. 
-- The % Passing Math, % Passing Reading, and the Overall Passing Percentage decreased significantly. 
-  - % Passing Math decreased from 93.27% to 66.91%.
-  - % Passing Reading decreased from 97.31% to 69.66%. 
-  - % Overall Passing decreased from 90.95% to 65.08%.
+
