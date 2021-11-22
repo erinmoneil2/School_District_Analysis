@@ -85,5 +85,4 @@ School Type Summary
 Lastly, Thomas High School is a Charter School, and similiar to both the School Spending and School Size, the difference is ever so slight and within the hundreths place and decreases after the 9th grade scores are replaced. 
 
 ## Summary 
-" Statement summarizing four changes to the school district analysis after reading and math scores have been replaced."
-
+One change is that the % Passing Math, % Passing Reading, and the % Overall passing does decrease very slightly for the entire disctrict. In addition, that same trend continues for all of Thomas High Schools scores. The different is very small, somewhere betwee 0.01 to 0.5%. Other changes include the scores by school size, type, and spending. All three are affected very slighly to the hundreths place. 
